@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dasun Dhananjaya</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka.</h3>
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasundhananjaya-git&label=Profile%20views&color=0e75b6&style=flat" alt="dasundhananjaya-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasundhananjaya-git" alt="dasundhananjaya-git" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 - 🔭 I’m currently working on **IPTM**
 
